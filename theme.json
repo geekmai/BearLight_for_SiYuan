@@ -1,0 +1,9 @@
+{
+  "name": "BearLight",
+  "author": "GeekMai",
+  "url": "https://github.com/geekmai/BearLight_for_SiYuan",
+  "version": "1.0.0",
+  "modes": [
+    "light"
+  ]
+}
